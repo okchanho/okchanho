@@ -1,4 +1,8 @@
-### Hi there 👋
+### Humanity engineering. 😄
+안녕하세요?
+사람냄새가 나는 개발자 "Walter"입니다.
+
+
 
 <!--
 **okchanho/okchanho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
