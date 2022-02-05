@@ -1,6 +1,5 @@
 ### Humanity engineering. 😄
-안녕하세요?
-사람냄새가 나는 개발자가 되고싶은 "Walter"입니다.
+가치있는 사람이 되고싶습니다.
 </br>
 <h3 align="center">
   <b>🛠 Tech Stack 🛠</b>
