@@ -1,5 +1,5 @@
 ### Humanity engineering. 😄
-가치있는 사람이 되고싶습니다.
+지금 지옥에 있는거 같습니다...
 </br>
 <h3 align="center">
   <b>🛠 Tech Stack 🛠</b>
