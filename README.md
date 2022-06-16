@@ -1,5 +1,4 @@
 ### Humanity engineering. 😄
-회사에선 아서....
 </br>
 <h3 align="center">
   <b>🛠 Tech Stack 🛠</b>
